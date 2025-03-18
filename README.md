@@ -46,4 +46,4 @@ Feel free to submit pull requests or report issues.
 This project is licensed under the MIT License.
 
 ---
-For any queries, reach out to [live.ailahmed@gmail.com].
+For any queries, reach out to [live.aliahmed@gmail.com].
